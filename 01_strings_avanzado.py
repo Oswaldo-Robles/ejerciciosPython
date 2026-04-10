@@ -1,7 +1,6 @@
 # =============================================================
 # EJERCICIO 1: Strings Avanzado
-# Temas: slicing, métodos de string, palíndromos, anagramas,
-#        cifrado César
+# Temas: slicing, métodos de string, palíndromos, anagramas, expresiones regulares, cifrado César
 # Nivel: básico-intermedio → intermedio
 # =============================================================
 
